@@ -1,0 +1,48 @@
+[Human Interface Guidelines]
+
+Text should be legible, it's a key part of clarity
+Use tools available and focus on content
+Fill the entire screen, use proper constraints
+Use the interface with content, don't compete with it
+
+Using layers to create depth to convey hierarchy
+Good function, good appearance makes for aesthetic integrity
+Nothing wrong with immersion, especially with games
+Just use the interface to provide some consistency
+
+Users can manipulate content, keep it dynamic
+Developers should know people like feedback and haptics
+Overall applications are metaphors for familiar actions
+Users should have control for these interactions
+
+[App Store Review Guidelines]
+
+The guiding principle is Hypocratic, do others no harm
+iOS users should have an experience that feels regal
+Safety comes first, with 4 more guidelines within
+Performance, business, design, and legal
+
+If you wouldn't show your grandma, don't put it in an app
+If you don't have an MD, please don't try to play doc
+Secure your data, but let users drop you a line
+User-generated content shouldn't be a stumbling block
+
+Submit when complete, App Store is no place for beta
+If your app is dynamic device shouldn't matter
+Just be up from with users about the equipment they need
+Proclaim it clearly in your metadata
+
+Any transactions should be performed in-app
+While modifying subscriptions is overall seamless
+Ensure advertisements are appropriate to age
+All parties benefit, don't you feel like a Genius?
+
+Keep your ideas original, and make sure they're refined
+It's an app, not a website, so you should build it as such
+Makes something useful, don't scrape Apple data
+Provide a software index when requested by us
+
+Link your privacy policy in a place easy to find
+Protect user privacy, I'd suggest you encrypt
+Be transparent with users, make sure your app is your own
+Keep all this in mind before you develop with Swift
